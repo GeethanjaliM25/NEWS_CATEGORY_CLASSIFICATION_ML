@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>News Category Classifier</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>📰 News Category Classifier</h1>
+    <textarea id="newsInput" placeholder="Enter a news article..."></textarea>
+    <button onclick="predictCategory()">Predict</button>
+
+    <div id="result"></div>
+
+    <h2>Try Sample Articles:</h2>
+    <button onclick="loadExample(1)">🌍 World</button>
+    <button onclick="loadExample(2)">🏅 Sports</button>
+    <button onclick="loadExample(3)">💼 Business</button>
+    <button onclick="loadExample(4)">🔬 Sci/Tech</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
