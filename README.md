@@ -60,5 +60,12 @@ Class ID: 2
 ```
 
 ---
+## ✨ Gratitude
+
+Special thanks to my teammate for the collaboration and support on this project:
+
+- Ashwinihebbali - [GitHub](https://github.com/Ashwinihebbali) 
+
+---
 
 ✅ This project demonstrates the practical implementation of **Naive Bayes in Natural Language Processing (NLP)** using a full-stack approach.
