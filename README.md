@@ -1,4 +1,4 @@
-# 📰 News Article Categorization using Naive Bayes.
+# 📰 News Article Categorization using Naive Bayes. 
 
 This is a full-stack machine learning project that classifies  news articles into different categories using the**Naive Bayes algorithm** 
 
